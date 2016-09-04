@@ -1,2 +1,2 @@
 # GameCssStyleSheet
-#for <insert game tilte>
+#for &ltinsert game tilte&gt
