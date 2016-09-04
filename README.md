@@ -1,2 +1,2 @@
 # GameCssStyleSheet
-#for &ltinsert game tilte&gt
+#for "insert game title"
